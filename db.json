@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Jonathan, The World's Oldest Living Land Animal, Celebrates 191st Birthday",
+      "author": "Kavi Dolasia"
+    },
+    {
+      "id": 2,
+      "title": "Zookeepers Find Creative Ways To Keep Animals Cool In Extreme Heat",
+      "author": "Jono Sison"
+    },
+    {
+      "id": 3,
+      "title": "Camera Footage Captures Octopuses Throwing Debris At Each Other",
+      "author": "Ashley Alvarado"
+    },
+    {
+      "title": "test",
+      "author": "test",
+      "id": 4
+    }
+  ]
+}
