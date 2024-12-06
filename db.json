@@ -1,29 +1,19 @@
 {
   "articles": [
     {
-      "id": 1,
-      "title": "Jonathan, The World's Oldest Living Land Animal, Celebrates 191st Birthday",
-      "author": "Kavi Dolasia"
-    },
-    {
       "id": 3,
       "title": "Camera Footage Captures Octopuses Throwing Debris At Each Other",
       "author": "Ashley Alvarado"
     },
     {
-      "title": "test",
-      "author": "test",
-      "id": 4
+      "title": "Jonathan, The World's Oldest Living Land Animal, Celebrates 191st Birthday!",
+      "author": "Kavi Dolasia ",
+      "id": 7
     },
     {
-      "title": "testt",
-      "author": "testt",
-      "id": 5
-    },
-    {
-      "title": "yes",
-      "author": "Please work",
-      "id": 6
+      "title": "Animals At Smithsonian's National Zoo Enjoy Snow Days!",
+      "author": "Kavi Dolasia ",
+      "id": 8
     }
   ]
 }
