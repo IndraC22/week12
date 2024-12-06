@@ -36,7 +36,7 @@ $(document).ready(() => {
         }
         
         $.post('http://localhost:3000/articles', formData, data =>{
-            alert(`data added: Title ${data.title}, Author: ${data.author}`)
+            console.log(`data added: Title ${data.title}, Author: ${data.author}`)
         })
 
         $('#myForm').trigger('reset')
