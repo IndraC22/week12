@@ -6,11 +6,6 @@
       "author": "Kavi Dolasia"
     },
     {
-      "id": 2,
-      "title": "Zookeepers Find Creative Ways To Keep Animals Cool In Extreme Heat",
-      "author": "Jono Sison"
-    },
-    {
       "id": 3,
       "title": "Camera Footage Captures Octopuses Throwing Debris At Each Other",
       "author": "Ashley Alvarado"
@@ -19,6 +14,16 @@
       "title": "test",
       "author": "test",
       "id": 4
+    },
+    {
+      "title": "testt",
+      "author": "testt",
+      "id": 5
+    },
+    {
+      "title": "yes",
+      "author": "Please work",
+      "id": 6
     }
   ]
 }
